@@ -1,0 +1,27 @@
+{
+  "name": "amap-jsapi-plugins-types",
+  "version": "1.0.0",
+  "description": "高德地图jsapi插件声明文件",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fate-rain/amap-jsapi-plugins-types.git"
+  },
+  "keywords": [
+    "amap",
+    "高德地图"
+  ],
+  "author": "成雨",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fate-rain/amap-jsapi-plugins-types/issues"
+  },
+  "homepage": "https://github.com/fate-rain/amap-jsapi-plugins-types#readme",
+  "devDependencies": {
+    "@amap/amap-jsapi-types": "0.0.8"
+  }
+}
