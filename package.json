@@ -23,5 +23,8 @@
   "homepage": "https://github.com/fate-rain/amap-jsapi-plugins-types#readme",
   "devDependencies": {
     "@amap/amap-jsapi-types": "0.0.8"
+  },
+  "peerDependencies": {
+    "@amap/amap-jsapi-types": "0.0.8"
   }
 }
